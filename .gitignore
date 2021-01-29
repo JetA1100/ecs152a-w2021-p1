@@ -210,5 +210,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,windows,macos
 
-.docx
-.pdf
+*.docx
+*.pdf
