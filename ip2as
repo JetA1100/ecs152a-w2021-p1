@@ -7,7 +7,7 @@ Authors: Eric Lee 915044258
 Usage:
 Note: tested on Python 3.9
 
-run "./ip2as DB_091803.txt IPlist.txt“
+run "./ip2as.py DB_091803.txt IPlist.txt“
 
 Sources used:
 1. https://www.programiz.com/python-programming/methods/built-in/format
